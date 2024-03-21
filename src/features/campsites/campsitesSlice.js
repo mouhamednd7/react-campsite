@@ -1,4 +1,4 @@
-import { CAMPSITES } from "../shared/data/CAMPSITES";
+import { CAMPSITES } from "../../app/shared/CAMPSITES";
 
 export const selectAllCampsites = () => {
   return CAMPSITES;
